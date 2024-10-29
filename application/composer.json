@@ -4,9 +4,7 @@
         "smarty/smarty": "^4.1",
         "luthier/luthier": "^1.0",
         "spatie/html-element": "^1.1",
-        "illuminate/pagination": "^8.83",
-        "phpmailer/phpmailer": "^6.6",
-        "setasign/fpdf": "^1.8"
+        "illuminate/pagination": "^8.83"
     },
     "autoload": {
         "classmap": [
